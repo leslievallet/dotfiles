@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leslie.vallet@hotmail.com
+	name = Leslie Vallet
